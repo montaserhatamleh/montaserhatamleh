@@ -52,11 +52,4 @@
 
 <p>
 
-## 🤙 Connect with me
 
- <a href="https://www.instagram.com/montaser.hh/" target="blank">
- <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center" height="20" width="70" />
- </a>  <a href="main:montaser.alhatamleh@gmail.com">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-   height="20" width="70" align="center" />
- </a>
