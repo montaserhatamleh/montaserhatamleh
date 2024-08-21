@@ -1,5 +1,7 @@
 # Hi, I'm Montaser Alhatamleh 👋
-###### Self-motivated, detail-oriented, and organized software developer who has a strong passion for coding with a strong ability to learn quickly and adapt to new technologies. Analytical and Likes to solve complex problems meticulously. A caring social person who wants to meet and work with new people.
+
+<img align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+
 > ## 🚀 About Me
 
 ##### I'm a full stack developer... <img src="https://user-images.githubusercontent.com/74038190/216655810-e2e89b30-25a2-479a-a20f-c4bde3634607.gif"  height="25" width="25" align="center">
@@ -50,4 +52,11 @@
 
 <p>
 
+## 🤙 Connect with me
 
+ <a href="https://www.instagram.com/montaser.hh/" target="blank">
+ <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" align="center" height="20" width="70" />
+ </a>  <a href="main:montaser.alhatamleh@gmail.com">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+   height="20" width="70" align="center" />
+ </a>
